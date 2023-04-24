@@ -4,6 +4,8 @@ My name is Julián and I'm a developer from [La Plata, Argentina](https://www.go
 - 📚 I'm currently studying [Licenciatura en Sistemas](https://www.info.unlp.edu.ar/carreras-gradoarticulo/plan-2015-licenciatura-en-sistema/) @ [Facultad de Informática - UNLP (Universidad Nacional de La Plata)](https://www.info.unlp.edu.ar/)
 - 💬 Ask me anything [here](https://github.com/juliancasaburi/juliancasaburi/issues) (:
 
-![juliancasaburi GitHub stats](https://github-readme-stats.vercel.app/api/?username=juliancasaburi&show_icons=true&include_all_commits=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![juliancasaburi GitHub stats card](https://github-readme-stats.vercel.app/api?username=juliancasaburi&show_icons=true&theme=dark)
+
+![Most used languages card](https://github-readme-stats.vercel.app/api/top-langs/?username=juliancasaburi&layout=compact&theme=dark)
 
 ![Profile Views badge](https://komarev.com/ghpvc/?username=juliancasaburi)
