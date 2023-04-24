@@ -4,8 +4,30 @@ My name is Julián and I'm a developer from [La Plata, Argentina](https://www.go
 - 📚 I'm currently studying [Licenciatura en Sistemas](https://www.info.unlp.edu.ar/carreras-gradoarticulo/plan-2015-licenciatura-en-sistema/) @ [Facultad de Informática - UNLP (Universidad Nacional de La Plata)](https://www.info.unlp.edu.ar/)
 - 💬 Ask me anything [here](https://github.com/juliancasaburi/juliancasaburi/issues) (:
 
-![juliancasaburi GitHub stats card](https://github-readme-stats.vercel.app/api?username=juliancasaburi&show_icons=true&theme=dark)
-
-![Most used languages card](https://github-readme-stats.vercel.app/api/top-langs/?username=juliancasaburi&layout=compact&theme=dark)
+<br>
 
 ![Profile Views badge](https://komarev.com/ghpvc/?username=juliancasaburi)
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=juliancasaburi&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=juliancasaburi&show_icons=true&theme=default"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=juliancasaburi&show_icons=true&theme=default" alt="juliancasaburi GitHub stats card"/>
+</picture>
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=juliancasaburi&layout=compact&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=juliancasaburi&layout=compact&theme=default"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliancasaburi&layout=compact&theme=default"/ alt="juliancasaburi Most used languages card">
+</picture>
