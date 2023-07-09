@@ -30,3 +30,7 @@ My name is Julián and I'm a developer from [La Plata, Argentina](https://www.go
 />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliancasaburi&layout=compact&theme=default"/ alt="juliancasaburi Most used languages card">
 </picture>
+
+# Recent Activity :zap:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
