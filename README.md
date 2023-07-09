@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-My name is Julián and I'm a developer from [La Plata, Argentina](https://www.google.com/maps/place/La+Plata,+Buenos+Aires+Province/@-34.9205233,-57.9881898,13z/data=!3m1!4b1!4m5!3m4!1s0x95a2e62b1f0085a1:0xbcfc44f0547312e3!8m2!3d-34.9204948!4d-57.9535657).
-- 📚 I'm currently studying [Licenciatura en Sistemas](https://www.info.unlp.edu.ar/carreras-gradoarticulo/plan-2015-licenciatura-en-sistema/) @ [Facultad de Informática - UNLP (Universidad Nacional de La Plata)](https://www.info.unlp.edu.ar/)
-
-<br>
-
 ![Profile Views badge](https://komarev.com/ghpvc/?username=juliancasaburi)
+
+My name is Julián and I'm a developer from [La Plata, Argentina](https://www.google.com/maps/place/La+Plata,+Buenos+Aires+Province/@-34.9205233,-57.9881898,13z/data=!3m1!4b1!4m5!3m4!1s0x95a2e62b1f0085a1:0xbcfc44f0547312e3!8m2!3d-34.9204948!4d-57.9535657).
+
+- 📚 I'm currently in my last semester of university, studying [Licenciatura en Sistemas](https://www.info.unlp.edu.ar/carreras-gradoarticulo/plan-2015-licenciatura-en-sistema/) @ [Facultad de Informática - UNLP (Universidad Nacional de La Plata)](https://www.info.unlp.edu.ar/)
+- 💡 I'm always seeking new challenges and opportunities to apply my knowledge and skills in practical settings.
+- 👥 I enjoy collaborating with fellow developers and working as part of a team to create innovative solutions.
 
 <picture>
 <source 
