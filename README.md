@@ -32,7 +32,7 @@ My name is Julián and I'm a developer from [La Plata, Argentina](https://www.go
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliancasaburi&layout=compact&theme=default"/ alt="juliancasaburi Most used languages card">
 </picture>
 
-# Recent Activity :zap:
+## Recent Activity :zap:
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#362](https://github.com/MUnique/OpenMU/pull/362) in [MUnique/OpenMU](https://github.com/MUnique/OpenMU)
 2. ❌ Closed PR [#361](https://github.com/MUnique/OpenMU/pull/361) in [MUnique/OpenMU](https://github.com/MUnique/OpenMU)
