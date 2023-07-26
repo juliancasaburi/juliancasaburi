@@ -18,7 +18,7 @@ My name is Julián and I'm a developer from [La Plata, Argentina](https://www.go
             <td style="width: 25%; padding: 10px; border: 1px solid #ccc;" align="center">
                 <picture>
                     <source 
-                        srcset="https://github-readme-stats.vercel.app/api?username=juliancasaburi&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
+                        srcset="https://github-readme-stats.vercel.app/api?username=juliancasaburi&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"
                         media="(prefers-color-scheme: dark)"
                     />
                     <source
@@ -31,7 +31,7 @@ My name is Julián and I'm a developer from [La Plata, Argentina](https://www.go
             <td style="width: 25%; padding: 10px; border: 1px solid #ccc;" align="center">
                 <picture>
                     <source 
-                        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=juliancasaburi&layout=compact&theme=dark"
+                        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=juliancasaburi&layout=compact&theme=github_dark"
                         media="(prefers-color-scheme: dark)"
                     />
                     <source
@@ -46,7 +46,7 @@ My name is Julián and I'm a developer from [La Plata, Argentina](https://www.go
             <td style="width: 25%; padding: 10px; border: 1px solid #ccc;" align="center">
                 <picture>
                     <source 
-                        srcset="https://github-readme-streak-stats.herokuapp.com/?user=juliancasaburi&theme=dark"
+                        srcset="https://github-readme-streak-stats.herokuapp.com/?user=juliancasaburi&theme=github-dark-blue"
                         media="(prefers-color-scheme: dark)"
                     />
                     <source
@@ -63,7 +63,7 @@ My name is Julián and I'm a developer from [La Plata, Argentina](https://www.go
                         media="(prefers-color-scheme: dark)"
                     />
                     <source
-                        srcset="https://github-profile-trophy.vercel.app/?username=juliancasaburi&theme=darkhub&column=4"
+                        srcset="https://github-profile-trophy.vercel.app/?username=juliancasaburi&column=4"
                         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                     />
                     <img src="https://github-profile-trophy.vercel.app/?username=juliancasaburi&column=4" alt="juliancasaburi Trophies"/>
