@@ -18,7 +18,7 @@ My name is Julián and I'm a developer from [La Plata, Argentina](https://www.go
             <td style="width: 25%; padding: 10px; border: 1px solid #ccc;" align="center">
                 <picture>
                     <source 
-                        srcset="https://github-readme-stats.vercel.app/api?username=juliancasaburi&show_icons=true&theme=dark"
+                        srcset="https://github-readme-stats.vercel.app/api?username=juliancasaburi&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
                         media="(prefers-color-scheme: dark)"
                     />
                     <source
