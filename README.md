@@ -8,29 +8,72 @@ My name is Julián and I'm a developer from [La Plata, Argentina](https://www.go
 - 💡 I'm always seeking new challenges and opportunities to apply my knowledge and skills in practical settings.
 - 👥 I enjoy collaborating with fellow developers and working as part of a team to create innovative solutions.
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=juliancasaburi&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=juliancasaburi&show_icons=true&theme=default"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=juliancasaburi&show_icons=true&theme=default" alt="juliancasaburi GitHub stats card"/>
-</picture>
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+    <table style="width: 100%; border-collapse: collapse;">
+        <tr>
+            <td style="width: 25%; padding: 10px; border: 1px solid #ccc;" align="center">
+                <picture>
+                    <source 
+                        srcset="https://github-readme-stats.vercel.app/api?username=juliancasaburi&show_icons=true&theme=dark"
+                        media="(prefers-color-scheme: dark)"
+                    />
+                    <source
+                        srcset="https://github-readme-stats.vercel.app/api?username=juliancasaburi&show_icons=true&theme=default"
+                        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                    />
+                    <img src="https://github-readme-stats.vercel.app/api?username=juliancasaburi&show_icons=true&theme=default" alt="juliancasaburi GitHub stats card"/>
+                </picture>
+            </td>
+            <td style="width: 25%; padding: 10px; border: 1px solid #ccc;" align="center">
+                <picture>
+                    <source 
+                        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=juliancasaburi&layout=compact&theme=dark"
+                        media="(prefers-color-scheme: dark)"
+                    />
+                    <source
+                        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=juliancasaburi&layout=compact&theme=default"
+                        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                    />
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliancasaburi&layout=compact&theme=default" alt="juliancasaburi Most used languages card"/>
+                </picture>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 25%; padding: 10px; border: 1px solid #ccc;" align="center">
+                <picture>
+                    <source 
+                        srcset="https://github-readme-streak-stats.herokuapp.com/?user=juliancasaburi&theme=dark"
+                        media="(prefers-color-scheme: dark)"
+                    />
+                    <source
+                        srcset="https://github-readme-streak-stats.herokuapp.com/?user=juliancasaburi"
+                        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                    />
+                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=juliancasaburi" alt="juliancasaburi Streak stats"/>
+                </picture>
+            </td>
+            <td style="width: 25%; padding: 10px; border: 1px solid #ccc;" align="center">
+                <picture>
+                    <source 
+                        srcset="https://github-profile-trophy.vercel.app/?username=juliancasaburi&theme=darkhub&column=4"
+                        media="(prefers-color-scheme: dark)"
+                    />
+                    <source
+                        srcset="https://github-profile-trophy.vercel.app/?username=juliancasaburi&theme=darkhub&column=4"
+                        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                    />
+                    <img src="https://github-profile-trophy.vercel.app/?username=juliancasaburi&column=4" alt="juliancasaburi Trophies"/>
+                </picture>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=juliancasaburi&layout=compact&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=juliancasaburi&layout=compact&theme=default"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliancasaburi&layout=compact&theme=default"/ alt="juliancasaburi Most used languages card">
-</picture>
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
