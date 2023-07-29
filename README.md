@@ -77,12 +77,12 @@ My name is Julián and I'm a developer from [La Plata, Argentina](https://www.go
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/svenlange2/Ryzen-5800x3d-linux-undervolting/pull/3) in [svenlange2/Ryzen-5800x3d-linux-undervolting](https://github.com/svenlange2/Ryzen-5800x3d-linux-undervolting)
-2. 💪 Opened PR [#362](https://github.com/MUnique/OpenMU/pull/362) in [MUnique/OpenMU](https://github.com/MUnique/OpenMU)
-3. ❌ Closed PR [#361](https://github.com/MUnique/OpenMU/pull/361) in [MUnique/OpenMU](https://github.com/MUnique/OpenMU)
-4. 💪 Opened PR [#361](https://github.com/MUnique/OpenMU/pull/361) in [MUnique/OpenMU](https://github.com/MUnique/OpenMU)
-5. 💪 Opened PR [#360](https://github.com/MUnique/OpenMU/pull/360) in [MUnique/OpenMU](https://github.com/MUnique/OpenMU)
-6. 💪 Opened PR [#359](https://github.com/MUnique/OpenMU/pull/359) in [MUnique/OpenMU](https://github.com/MUnique/OpenMU)
-7. ❗ Opened issue [#358](https://github.com/MUnique/OpenMU/issues/358) in [MUnique/OpenMU](https://github.com/MUnique/OpenMU)
-8. ❗ Opened issue [#357](https://github.com/MUnique/OpenMU/issues/357) in [MUnique/OpenMU](https://github.com/MUnique/OpenMU)
+1. 💪 Opened PR [#371](https://github.com/MUnique/OpenMU/pull/371) in [MUnique/OpenMU](https://github.com/MUnique/OpenMU)
+2. 💪 Opened PR [#3](https://github.com/svenlange2/Ryzen-5800x3d-linux-undervolting/pull/3) in [svenlange2/Ryzen-5800x3d-linux-undervolting](https://github.com/svenlange2/Ryzen-5800x3d-linux-undervolting)
+3. 💪 Opened PR [#362](https://github.com/MUnique/OpenMU/pull/362) in [MUnique/OpenMU](https://github.com/MUnique/OpenMU)
+4. ❌ Closed PR [#361](https://github.com/MUnique/OpenMU/pull/361) in [MUnique/OpenMU](https://github.com/MUnique/OpenMU)
+5. 💪 Opened PR [#361](https://github.com/MUnique/OpenMU/pull/361) in [MUnique/OpenMU](https://github.com/MUnique/OpenMU)
+6. 💪 Opened PR [#360](https://github.com/MUnique/OpenMU/pull/360) in [MUnique/OpenMU](https://github.com/MUnique/OpenMU)
+7. 💪 Opened PR [#359](https://github.com/MUnique/OpenMU/pull/359) in [MUnique/OpenMU](https://github.com/MUnique/OpenMU)
+8. ❗ Opened issue [#358](https://github.com/MUnique/OpenMU/issues/358) in [MUnique/OpenMU](https://github.com/MUnique/OpenMU)
 <!--END_SECTION:activity-->
