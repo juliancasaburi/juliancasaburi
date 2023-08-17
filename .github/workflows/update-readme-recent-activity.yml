@@ -2,7 +2,7 @@ name: Update README (recent activity)
 
 on:
   schedule:
-    - cron: "0 3 * * *" # Run daily at 03:00 UTC (00:00 GMT-3)
+    - cron: "*/5 * * * *" # Run every 5 minutes
 
 jobs:
   build:
@@ -16,4 +16,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: "Updated README with recent activity"
-          MAX_LINES: 12
+          MAX_LINES: 15
