@@ -77,10 +77,10 @@ My name is Julián and I'm a developer from [La Plata, Argentina](https://www.go
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#376](https://github.com/MUnique/OpenMU/pull/376) in [MUnique/OpenMU](https://github.com/MUnique/OpenMU)
-2. 💪 Opened PR [#375](https://github.com/MUnique/OpenMU/pull/375) in [MUnique/OpenMU](https://github.com/MUnique/OpenMU)
-3. ❗ Opened issue [#374](https://github.com/MUnique/OpenMU/issues/374) in [MUnique/OpenMU](https://github.com/MUnique/OpenMU)
-4. 💪 Opened PR [#371](https://github.com/MUnique/OpenMU/pull/371) in [MUnique/OpenMU](https://github.com/MUnique/OpenMU)
-5. 💪 Opened PR [#3](https://github.com/svenlange2/Ryzen-5800x3d-linux-undervolting/pull/3) in [svenlange2/Ryzen-5800x3d-linux-undervolting](https://github.com/svenlange2/Ryzen-5800x3d-linux-undervolting)
-6. 💪 Opened PR [#362](https://github.com/MUnique/OpenMU/pull/362) in [MUnique/OpenMU](https://github.com/MUnique/OpenMU)
+1. 🚀 Published release [v1.0](https://github.com/juliancasaburi/siu-guarani-unlp-promedio-extension/releases/tag/v1.0) in [juliancasaburi/siu-guarani-unlp-promedio-extension](https://github.com/juliancasaburi/siu-guarani-unlp-promedio-extension)
+2. 🚀 Published release [v1.0](https://github.com/juliancasaburi/siu-guarani-unlp-promedio-extension/releases/tag/v1.0) in [juliancasaburi/siu-guarani-unlp-promedio-extension](https://github.com/juliancasaburi/siu-guarani-unlp-promedio-extension)
+3. 🚀 Published release [v1.0](https://github.com/juliancasaburi/siu-guarani-unlp-promedio-extension/releases/tag/v1.0) in [juliancasaburi/siu-guarani-unlp-promedio-extension](https://github.com/juliancasaburi/siu-guarani-unlp-promedio-extension)
+4. 🚀 Published release [v1.0](https://github.com/juliancasaburi/siu-guarani-unlp-promedio-extension/releases/tag/v1.0) in [juliancasaburi/siu-guarani-unlp-promedio-extension](https://github.com/juliancasaburi/siu-guarani-unlp-promedio-extension)
+5. 💪 Opened PR [#376](https://github.com/MUnique/OpenMU/pull/376) in [MUnique/OpenMU](https://github.com/MUnique/OpenMU)
+6. 💪 Opened PR [#375](https://github.com/MUnique/OpenMU/pull/375) in [MUnique/OpenMU](https://github.com/MUnique/OpenMU)
 <!--END_SECTION:activity-->
