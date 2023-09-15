@@ -79,10 +79,10 @@ Feel free to explore my repositories and get in touch if you'd like to connect, 
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/juliancasaburi/siu-guarani-promedio-extension/pull/9) in [juliancasaburi/siu-guarani-promedio-extension](https://github.com/juliancasaburi/siu-guarani-promedio-extension)
-2. 💪 Opened PR [#9](https://github.com/juliancasaburi/siu-guarani-promedio-extension/pull/9) in [juliancasaburi/siu-guarani-promedio-extension](https://github.com/juliancasaburi/siu-guarani-promedio-extension)
-3. 🚀 Published release [v1.4.3](https://github.com/juliancasaburi/siu-guarani-promedio-extension/releases/tag/v1.4.3) in [juliancasaburi/siu-guarani-promedio-extension](https://github.com/juliancasaburi/siu-guarani-promedio-extension)
-4. 🎉 Merged PR [#8](https://github.com/juliancasaburi/siu-guarani-promedio-extension/pull/8) in [juliancasaburi/siu-guarani-promedio-extension](https://github.com/juliancasaburi/siu-guarani-promedio-extension)
-5. 💪 Opened PR [#8](https://github.com/juliancasaburi/siu-guarani-promedio-extension/pull/8) in [juliancasaburi/siu-guarani-promedio-extension](https://github.com/juliancasaburi/siu-guarani-promedio-extension)
-6. 🚀 Published release [v1.4.2](https://github.com/juliancasaburi/siu-guarani-promedio-extension/releases/tag/v1.4.2) in [juliancasaburi/siu-guarani-promedio-extension](https://github.com/juliancasaburi/siu-guarani-promedio-extension)
+1. 🚀 Published release [v1.4.4](https://github.com/juliancasaburi/siu-guarani-promedio-extension/releases/tag/v1.4.4) in [juliancasaburi/siu-guarani-promedio-extension](https://github.com/juliancasaburi/siu-guarani-promedio-extension)
+2. 🎉 Merged PR [#12](https://github.com/juliancasaburi/siu-guarani-promedio-extension/pull/12) in [juliancasaburi/siu-guarani-promedio-extension](https://github.com/juliancasaburi/siu-guarani-promedio-extension)
+3. 💪 Opened PR [#12](https://github.com/juliancasaburi/siu-guarani-promedio-extension/pull/12) in [juliancasaburi/siu-guarani-promedio-extension](https://github.com/juliancasaburi/siu-guarani-promedio-extension)
+4. 🚀 Published release [v1.4.4](https://github.com/juliancasaburi/siu-guarani-promedio-extension/releases/tag/v1.4.4) in [juliancasaburi/siu-guarani-promedio-extension](https://github.com/juliancasaburi/siu-guarani-promedio-extension)
+5. 🎉 Merged PR [#11](https://github.com/juliancasaburi/siu-guarani-promedio-extension/pull/11) in [juliancasaburi/siu-guarani-promedio-extension](https://github.com/juliancasaburi/siu-guarani-promedio-extension)
+6. 💪 Opened PR [#11](https://github.com/juliancasaburi/siu-guarani-promedio-extension/pull/11) in [juliancasaburi/siu-guarani-promedio-extension](https://github.com/juliancasaburi/siu-guarani-promedio-extension)
 <!--END_SECTION:activity-->
