@@ -79,10 +79,10 @@ Feel free to explore my repositories and get in touch if you'd like to connect, 
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.4.6](https://github.com/juliancasaburi/siu-guarani-promedio-extension/releases/tag/v1.4.6) in [juliancasaburi/siu-guarani-promedio-extension](https://github.com/juliancasaburi/siu-guarani-promedio-extension)
-2. 🔒 Closed issue [#16](https://github.com/juliancasaburi/siu-guarani-promedio-extension/issues/16) in [juliancasaburi/siu-guarani-promedio-extension](https://github.com/juliancasaburi/siu-guarani-promedio-extension)
-3. 🎉 Merged PR [#17](https://github.com/juliancasaburi/siu-guarani-promedio-extension/pull/17) in [juliancasaburi/siu-guarani-promedio-extension](https://github.com/juliancasaburi/siu-guarani-promedio-extension)
-4. 💪 Opened PR [#17](https://github.com/juliancasaburi/siu-guarani-promedio-extension/pull/17) in [juliancasaburi/siu-guarani-promedio-extension](https://github.com/juliancasaburi/siu-guarani-promedio-extension)
-5. ❗ Opened issue [#16](https://github.com/juliancasaburi/siu-guarani-promedio-extension/issues/16) in [juliancasaburi/siu-guarani-promedio-extension](https://github.com/juliancasaburi/siu-guarani-promedio-extension)
-6. 🚀 Published release [v1.4.5](https://github.com/juliancasaburi/siu-guarani-promedio-extension/releases/tag/v1.4.5) in [juliancasaburi/siu-guarani-promedio-extension](https://github.com/juliancasaburi/siu-guarani-promedio-extension)
+1. 💪 Opened PR [#185](https://github.com/zayKenyon/VALORANT-rank-yoinker/pull/185) in [zayKenyon/VALORANT-rank-yoinker](https://github.com/zayKenyon/VALORANT-rank-yoinker)
+2. 🗣 Commented on [#9](https://github.com/DSAinfo/CTFS-Writeups/pull/9#issuecomment-1880236333) in [DSAinfo/CTFS-Writeups](https://github.com/DSAinfo/CTFS-Writeups)
+3. 🎉 Merged PR [#1](https://github.com/juliancasaburi/open-sauced/pull/1) in [juliancasaburi/open-sauced](https://github.com/juliancasaburi/open-sauced)
+4. 🎉 Merged PR [#2](https://github.com/juliancasaburi/open-sauced/pull/2) in [juliancasaburi/open-sauced](https://github.com/juliancasaburi/open-sauced)
+5. 💪 Opened PR [#2](https://github.com/juliancasaburi/open-sauced/pull/2) in [juliancasaburi/open-sauced](https://github.com/juliancasaburi/open-sauced)
+6. 💪 Opened PR [#1](https://github.com/juliancasaburi/open-sauced/pull/1) in [juliancasaburi/open-sauced](https://github.com/juliancasaburi/open-sauced)
 <!--END_SECTION:activity-->
