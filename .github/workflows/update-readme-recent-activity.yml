@@ -2,7 +2,7 @@ name: Update README (recent activity)
 
 on:
   schedule:
-    - cron: "0 3 * * *" # Run daily at 03:00 UTC (00:00 GMT-3)
+    - cron: "*/5 * * * *"
 
 jobs:
   build:
