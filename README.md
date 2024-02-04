@@ -79,8 +79,8 @@ Feel free to explore my repositories and get in touch if you'd like to connect, 
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#185](https://github.com/zayKenyon/VALORANT-rank-yoinker/pull/185) in [zayKenyon/VALORANT-rank-yoinker](https://github.com/zayKenyon/VALORANT-rank-yoinker)
-2. 🗣 Commented on [#9](https://github.com/DSAinfo/CTFS-Writeups/pull/9#issuecomment-1880236333) in [DSAinfo/CTFS-Writeups](https://github.com/DSAinfo/CTFS-Writeups)
+1. 🎉 Merged PR [#1](https://github.com/juliancasaburi/dollar/pull/1) in [juliancasaburi/dollar](https://github.com/juliancasaburi/dollar)
+2. 💪 Opened PR [#1](https://github.com/juliancasaburi/dollar/pull/1) in [juliancasaburi/dollar](https://github.com/juliancasaburi/dollar)
 3. 🎉 Merged PR [#1](https://github.com/juliancasaburi/open-sauced/pull/1) in [juliancasaburi/open-sauced](https://github.com/juliancasaburi/open-sauced)
 4. 🎉 Merged PR [#2](https://github.com/juliancasaburi/open-sauced/pull/2) in [juliancasaburi/open-sauced](https://github.com/juliancasaburi/open-sauced)
 5. 💪 Opened PR [#2](https://github.com/juliancasaburi/open-sauced/pull/2) in [juliancasaburi/open-sauced](https://github.com/juliancasaburi/open-sauced)
