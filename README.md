@@ -81,7 +81,7 @@ Feel free to explore my repositories and get in touch if you'd like to connect, 
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/DSAinfo/CTFS-Writeups/pull/9#issuecomment-1947517336) in [DSAinfo/CTFS-Writeups](https://github.com/DSAinfo/CTFS-Writeups)
+1. 💪 Opened PR [#339](https://github.com/openfaas/openfaas.github.io/pull/339) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
 2. 🎉 Merged PR [#1](https://github.com/juliancasaburi/dollar/pull/1) in [juliancasaburi/dollar](https://github.com/juliancasaburi/dollar)
 3. 💪 Opened PR [#1](https://github.com/juliancasaburi/dollar/pull/1) in [juliancasaburi/dollar](https://github.com/juliancasaburi/dollar)
 4. 🎉 Merged PR [#2](https://github.com/juliancasaburi/open-sauced/pull/2) in [juliancasaburi/open-sauced](https://github.com/juliancasaburi/open-sauced)
