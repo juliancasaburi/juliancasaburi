@@ -81,9 +81,9 @@ Feel free to explore my repositories and get in touch if you'd like to connect, 
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#339](https://github.com/openfaas/openfaas.github.io/pull/339) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
-2. 🎉 Merged PR [#1](https://github.com/juliancasaburi/dollar/pull/1) in [juliancasaburi/dollar](https://github.com/juliancasaburi/dollar)
-3. 💪 Opened PR [#1](https://github.com/juliancasaburi/dollar/pull/1) in [juliancasaburi/dollar](https://github.com/juliancasaburi/dollar)
+1. 💪 Opened PR [#314](https://github.com/openfaas/templates/pull/314) in [openfaas/templates](https://github.com/openfaas/templates)
+2. ❗ Opened issue [#313](https://github.com/openfaas/templates/issues/313) in [openfaas/templates](https://github.com/openfaas/templates)
+3. 💪 Opened PR [#339](https://github.com/openfaas/openfaas.github.io/pull/339) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
 4. 🎉 Merged PR [#2](https://github.com/juliancasaburi/open-sauced/pull/2) in [juliancasaburi/open-sauced](https://github.com/juliancasaburi/open-sauced)
 5. 💪 Opened PR [#2](https://github.com/juliancasaburi/open-sauced/pull/2) in [juliancasaburi/open-sauced](https://github.com/juliancasaburi/open-sauced)
 6. 💪 Opened PR [#1](https://github.com/juliancasaburi/open-sauced/pull/1) in [juliancasaburi/open-sauced](https://github.com/juliancasaburi/open-sauced)
