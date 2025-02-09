@@ -81,8 +81,8 @@ Feel free to explore my repositories and get in touch if you'd like to connect, 
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/juliancasaburi/dollar/pull/2) in [juliancasaburi/dollar](https://github.com/juliancasaburi/dollar)
-2. 💪 Opened PR [#2](https://github.com/juliancasaburi/dollar/pull/2) in [juliancasaburi/dollar](https://github.com/juliancasaburi/dollar)
+1. 🎉 Merged PR [#1](https://github.com/juliancasaburi/irisctf-2024/pull/1) in [juliancasaburi/irisctf-2024](https://github.com/juliancasaburi/irisctf-2024)
+2. 💪 Opened PR [#1](https://github.com/juliancasaburi/irisctf-2024/pull/1) in [juliancasaburi/irisctf-2024](https://github.com/juliancasaburi/irisctf-2024)
 3. 💪 Opened PR [#314](https://github.com/openfaas/templates/pull/314) in [openfaas/templates](https://github.com/openfaas/templates)
 4. ❗ Opened issue [#313](https://github.com/openfaas/templates/issues/313) in [openfaas/templates](https://github.com/openfaas/templates)
 5. 💪 Opened PR [#2](https://github.com/juliancasaburi/open-sauced/pull/2) in [juliancasaburi/open-sauced](https://github.com/juliancasaburi/open-sauced)
