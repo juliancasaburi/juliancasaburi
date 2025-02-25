@@ -78,6 +78,85 @@ Feel free to explore my repositories and get in touch if you'd like to connect, 
 </body>
 </html>
 
+## Technologies & Tools 🛠️
+
+<table>
+  <tr>
+    <td><strong>Operating Systems</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Linux-black?logo=linux" />
+      <img src="https://img.shields.io/badge/-Windows-black?logo=windows" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript" />
+      <img src="https://img.shields.io/badge/-Java-black?logo=openjdk" />
+      <img src="https://img.shields.io/badge/-PHP-black?logo=php" />
+      <img src="https://img.shields.io/badge/-Python-black?logo=python" />
+      <img src="https://img.shields.io/badge/-Bash-black?logo=gnubash" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frameworks</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Spring%20Boot-black?logo=springboot" />
+      <img src="https://img.shields.io/badge/-Laravel-black?logo=laravel" />
+      <img src="https://img.shields.io/badge/-Express.js-black?logo=express" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-MySQL-black?logo=mysql" />
+      <img src="https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql" />
+      <img src="https://img.shields.io/badge/-CockroachDB-black?logo=Cockroach%20Labs" />
+      <img src="https://img.shields.io/badge/-MongoDB-black?logo=mongodb" />
+      <img src="https://img.shields.io/badge/-Redis-black?logo=redis" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Cloud & Infrastructure</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-AWS-black?logo=amazonwebservices&logoColor=white" />
+      <img src="https://img.shields.io/badge/-AWS%20S3-black?logo=amazons3" />
+      <img src="https://img.shields.io/badge/-AWS%20Lambda-black?logo=aws-lambda" />
+      <img src="https://img.shields.io/badge/-AWS%20EC2-black?logo=amazonwebservices&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Docker-black?logo=docker" />
+      <img src="https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes" />
+      <img src="https://img.shields.io/badge/-Nginx-black?logo=nginx" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>CI/CD & DevOps</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-GitHub%20Actions-black?logo=githubactions" />
+      <img src="https://img.shields.io/badge/-AWS%20CloudFormation-black?logo=amazonwebservices&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Monitoring & Logging</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Prometheus-black?logo=prometheus" />
+      <img src="https://img.shields.io/badge/-Grafana-black?logo=grafana" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Networking</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-TCP%2FIP-black?logo=networking" />
+      <img src="https://img.shields.io/badge/-WebSocket-black?logo=websocket" />
+      <img src="https://img.shields.io/badge/-DNS-black?logo=dns" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Version Control</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Git-black?logo=git" />
+    </td>
+  </tr>
+</table>
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
