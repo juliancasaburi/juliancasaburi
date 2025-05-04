@@ -4,13 +4,13 @@
 
 I'm Julián, a developer based in [La Plata, Argentina](https://www.google.com/maps/place/La+Plata,+Buenos+Aires+Province/@-34.9205233,-57.9881898,13z/data=!3m1!4b1!4m5!3m4!1s0x95a2e62b1f0085a1:0xbcfc44f0547312e3!8m2!3d-34.9204948!4d-57.9535657).
 
--  ✍️ I’m working on my thesis to earn my [Licenciatura en Sistemas (Computer Science)](https://www.info.unlp.edu.ar/carreras-gradoarticulo/plan-2015-licenciatura-en-sistema/) degree. I'm also a proud graduate 🎓 with a [Analista Programador Universitario](https://www.info.unlp.edu.ar/carreras-gradoarticulo/plan-2015-analista-programador-universitario-nuevo/) degree @ [Facultad de Informática - UNLP (Universidad Nacional de La Plata) - 🇦🇷](https://www.info.unlp.edu.ar/).
+-  🎓 I’ve graduated with a [Licenciatura en Sistemas (Computer Science)](https://www.info.unlp.edu.ar/carreras-gradoarticulo/plan-2015-licenciatura-en-sistema/) degree, as well as an [Analista Programador Universitario](https://www.info.unlp.edu.ar/carreras-gradoarticulo/plan-2015-analista-programador-universitario-nuevo/) degree from [Facultad de Informática - UNLP (Universidad Nacional de La Plata) - 🇦🇷](https://www.info.unlp.edu.ar/).
 
 - 💡 I'm always seeking new challenges and opportunities to apply my knowledge and skills in practical settings.
 
 - 👥 I enjoy collaborating with fellow developers and working as part of a team to create innovative solutions.
 
-Feel free to explore my repositories and get in touch if you'd like to connect, collaborate, or simply have a chat about all things tech!
+Feel free to explore my repositories and reach out if you’d like to connect, collaborate, or simply have a char about anything tech-related!
 
 <!DOCTYPE html>
 <html>
