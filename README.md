@@ -10,7 +10,7 @@ I'm Julián, a developer based in [La Plata, Argentina](https://www.google.com/m
 
 - 👥 I enjoy collaborating with fellow developers and working as part of a team to create innovative solutions.
 
-Feel free to explore my repositories and reach out if you’d like to connect, collaborate, or simply have a char about anything tech-related!
+Feel free to explore my repositories and reach out if you’d like to connect, collaborate, or simply have a chat about anything tech-related!
 
 <!DOCTYPE html>
 <html>
