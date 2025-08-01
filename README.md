@@ -160,10 +160,10 @@ Feel free to explore my repositories and reach out if you’d like to connect, c
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/juliancasaburi/juliancasaburi.github.io/pull/4) in [juliancasaburi/juliancasaburi.github.io](https://github.com/juliancasaburi/juliancasaburi.github.io)
-2. 💪 Opened PR [#4](https://github.com/juliancasaburi/juliancasaburi.github.io/pull/4) in [juliancasaburi/juliancasaburi.github.io](https://github.com/juliancasaburi/juliancasaburi.github.io)
-3. 🎉 Merged PR [#3](https://github.com/juliancasaburi/juliancasaburi.github.io/pull/3) in [juliancasaburi/juliancasaburi.github.io](https://github.com/juliancasaburi/juliancasaburi.github.io)
-4. 💪 Opened PR [#3](https://github.com/juliancasaburi/juliancasaburi.github.io/pull/3) in [juliancasaburi/juliancasaburi.github.io](https://github.com/juliancasaburi/juliancasaburi.github.io)
-5. 🎉 Merged PR [#2](https://github.com/juliancasaburi/juliancasaburi.github.io/pull/2) in [juliancasaburi/juliancasaburi.github.io](https://github.com/juliancasaburi/juliancasaburi.github.io)
-6. 💪 Opened PR [#2](https://github.com/juliancasaburi/juliancasaburi.github.io/pull/2) in [juliancasaburi/juliancasaburi.github.io](https://github.com/juliancasaburi/juliancasaburi.github.io)
+1. 🎉 Merged PR [#1](https://github.com/juliancasaburi/winui-scripts-app/pull/1) in [juliancasaburi/winui-scripts-app](https://github.com/juliancasaburi/winui-scripts-app)
+2. 💪 Opened PR [#1](https://github.com/juliancasaburi/winui-scripts-app/pull/1) in [juliancasaburi/winui-scripts-app](https://github.com/juliancasaburi/winui-scripts-app)
+3. 🎉 Merged PR [#4](https://github.com/juliancasaburi/juliancasaburi.github.io/pull/4) in [juliancasaburi/juliancasaburi.github.io](https://github.com/juliancasaburi/juliancasaburi.github.io)
+4. 💪 Opened PR [#4](https://github.com/juliancasaburi/juliancasaburi.github.io/pull/4) in [juliancasaburi/juliancasaburi.github.io](https://github.com/juliancasaburi/juliancasaburi.github.io)
+5. 🎉 Merged PR [#3](https://github.com/juliancasaburi/juliancasaburi.github.io/pull/3) in [juliancasaburi/juliancasaburi.github.io](https://github.com/juliancasaburi/juliancasaburi.github.io)
+6. 💪 Opened PR [#3](https://github.com/juliancasaburi/juliancasaburi.github.io/pull/3) in [juliancasaburi/juliancasaburi.github.io](https://github.com/juliancasaburi/juliancasaburi.github.io)
 <!--END_SECTION:activity-->
