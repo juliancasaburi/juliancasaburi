@@ -20,6 +20,9 @@ Feel free to explore my repositories and reach out if you’d like to connect, c
     <table style="width: 100%; border-collapse: collapse;">
         <tr>
             <td style="width: 25%; padding: 10px; border: 1px solid #ccc;" align="center">
+                <a href="https://user-badge.committers.top/argentina/juliancasaburi">
+                    <img src="https://user-badge.committers.top/argentina/juliancasaburi.svg" alt="Committers Top Badge" />
+                </a>
                 <picture>
                     <source 
                         srcset="https://github-readme-stats.vercel.app/api?username=juliancasaburi&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"
