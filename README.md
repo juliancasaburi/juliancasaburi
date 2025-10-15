@@ -162,10 +162,10 @@ Feel free to explore my repositories and reach out if you’d like to connect, c
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/juliancasaburi/clima-info-unlp-mcp/pull/1) in [juliancasaburi/clima-info-unlp-mcp](https://github.com/juliancasaburi/clima-info-unlp-mcp)
-2. 💪 Opened PR [#1](https://github.com/juliancasaburi/clima-info-unlp-mcp/pull/1) in [juliancasaburi/clima-info-unlp-mcp](https://github.com/juliancasaburi/clima-info-unlp-mcp)
-3. 🎉 Merged PR [#8](https://github.com/juliancasaburi/juliancasaburi.github.io/pull/8) in [juliancasaburi/juliancasaburi.github.io](https://github.com/juliancasaburi/juliancasaburi.github.io)
-4. 💪 Opened PR [#8](https://github.com/juliancasaburi/juliancasaburi.github.io/pull/8) in [juliancasaburi/juliancasaburi.github.io](https://github.com/juliancasaburi/juliancasaburi.github.io)
-5. 🎉 Merged PR [#7](https://github.com/juliancasaburi/juliancasaburi.github.io/pull/7) in [juliancasaburi/juliancasaburi.github.io](https://github.com/juliancasaburi/juliancasaburi.github.io)
+1. 🔒 Closed issue [#2](https://github.com/juliancasaburi/clima-info-unlp-mcp/issues/2) in [juliancasaburi/clima-info-unlp-mcp](https://github.com/juliancasaburi/clima-info-unlp-mcp)
+2.  Assigned issue [#2](https://github.com/juliancasaburi/clima-info-unlp-mcp/issues/2) in [juliancasaburi/clima-info-unlp-mcp](https://github.com/juliancasaburi/clima-info-unlp-mcp)
+3. ❗ Opened issue [#2](https://github.com/juliancasaburi/clima-info-unlp-mcp/issues/2) in [juliancasaburi/clima-info-unlp-mcp](https://github.com/juliancasaburi/clima-info-unlp-mcp)
+4. 💪 Opened PR [#1](undefined) in [juliancasaburi/clima-info-unlp-mcp](https://github.com/juliancasaburi/clima-info-unlp-mcp)
+5. ❌ Assigned PR [#1](undefined) in [juliancasaburi/clima-info-unlp-mcp](https://github.com/juliancasaburi/clima-info-unlp-mcp)
 6. 💪 Opened PR [#7](https://github.com/juliancasaburi/juliancasaburi.github.io/pull/7) in [juliancasaburi/juliancasaburi.github.io](https://github.com/juliancasaburi/juliancasaburi.github.io)
 <!--END_SECTION:activity-->
