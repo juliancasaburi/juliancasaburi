@@ -93,6 +93,7 @@ Feel free to explore my repositories and reach out if you’d like to connect, c
   <tr>
     <td><strong>Programming Languages</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/-C%23-black?logo=csharp" />     
       <img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript" />
       <img src="https://img.shields.io/badge/-Java-black?logo=openjdk" />
       <img src="https://img.shields.io/badge/-PHP-black?logo=php" />
@@ -103,6 +104,8 @@ Feel free to explore my repositories and reach out if you’d like to connect, c
   <tr>
     <td><strong>Frameworks</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/-ASP.NET-black?logo=aspnet" />
+      <img src="https://img.shields.io/badge/-.NET%20Framework-black?logo=dotnet" />
       <img src="https://img.shields.io/badge/-Spring%20Boot-black?logo=springboot" />
       <img src="https://img.shields.io/badge/-Laravel-black?logo=laravel" />
       <img src="https://img.shields.io/badge/-Express.js-black?logo=express" />
