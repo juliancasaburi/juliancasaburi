@@ -114,6 +114,7 @@ Feel free to explore my repositories and reach out if you’d like to connect, c
   <tr>
     <td><strong>Databases</strong></td>
     <td>
+      <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-black?logo=mssqlserver-white&logoColor=cc2927" />
       <img src="https://img.shields.io/badge/-MySQL-black?logo=mysql" />
       <img src="https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql" />
       <img src="https://img.shields.io/badge/-CockroachDB-black?logo=Cockroach%20Labs" />
