@@ -87,13 +87,13 @@ Feel free to explore my repositories and reach out if you’d like to connect, c
     <td><strong>Operating Systems</strong></td>
     <td>
       <img src="https://img.shields.io/badge/-Linux-black?logo=linux" />
-      <img src="https://img.shields.io/badge/-Windows-black?logo=windows" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Windows-black?logo=windows11&logoColor=white" /> 
     </td>
   </tr>
   <tr>
     <td><strong>Programming Languages</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/-C%23-black?logo=csharp" />     
+      <img src="https://custom-icon-badges.demolab.com/badge/C%23-black.svg?logo=cshrp&logoColor=white" />   
       <img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript" />
       <img src="https://img.shields.io/badge/-Java-black?logo=openjdk" />
       <img src="https://img.shields.io/badge/-PHP-black?logo=php" />
@@ -104,7 +104,7 @@ Feel free to explore my repositories and reach out if you’d like to connect, c
   <tr>
     <td><strong>Frameworks</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/-ASP.NET-black?logo=aspnet" />
+      <img src="https://img.shields.io/badge/-ASP.NET-black?logo=dotnet" />
       <img src="https://img.shields.io/badge/-.NET%20Framework-black?logo=dotnet" />
       <img src="https://img.shields.io/badge/-Spring%20Boot-black?logo=springboot" />
       <img src="https://img.shields.io/badge/-Laravel-black?logo=laravel" />
@@ -125,10 +125,10 @@ Feel free to explore my repositories and reach out if you’d like to connect, c
   <tr>
     <td><strong>Cloud & Infrastructure</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/-AWS-black?logo=amazonwebservices&logoColor=white" />
-      <img src="https://img.shields.io/badge/-AWS%20S3-black?logo=amazons3" />
-      <img src="https://img.shields.io/badge/-AWS%20Lambda-black?logo=aws-lambda" />
-      <img src="https://img.shields.io/badge/-AWS%20EC2-black?logo=amazonwebservices&logoColor=white" />
+      <img src="https://custom-icon-badges.demolab.com/badge/AWS-black.svg?logo=aws&logoColor=white" />
+      <img src="https://custom-icon-badges.demolab.com/badge/AWS%20S3-black.svg?logo=aws&logoColor=white" />
+      <img src="https://custom-icon-badges.demolab.com/badge/AWS%20Lambda-black.svg?logo=aws&logoColor=white" />
+      <img src="https://custom-icon-badges.demolab.com/badge/AWS%20EC2-black.svg?logo=aws&logoColor=white" />
       <img src="https://img.shields.io/badge/-Docker-black?logo=docker" />
       <img src="https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes" />
       <img src="https://img.shields.io/badge/-Nginx-black?logo=nginx" />
@@ -138,7 +138,7 @@ Feel free to explore my repositories and reach out if you’d like to connect, c
     <td><strong>CI/CD & DevOps</strong></td>
     <td>
       <img src="https://img.shields.io/badge/-GitHub%20Actions-black?logo=githubactions" />
-      <img src="https://img.shields.io/badge/-AWS%20CloudFormation-black?logo=amazonwebservices&logoColor=white" />
+      <img src="https://custom-icon-badges.demolab.com/badge/AWS%20CloudFormation-black.svg?logo=aws&logoColor=white" />
     </td>
   </tr>
   <tr>
