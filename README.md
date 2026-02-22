@@ -166,10 +166,10 @@ Feel free to explore my repositories and reach out if you’d like to connect, c
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#263](https://github.com/zayKenyon/VALORANT-rank-yoinker/pull/263) in [zayKenyon/VALORANT-rank-yoinker](https://github.com/zayKenyon/VALORANT-rank-yoinker)
-2. 💪 Opened PR [#16](https://github.com/stowmyy/dropship/pull/16) in [stowmyy/dropship](https://github.com/stowmyy/dropship)
-3. 💪 Opened PR [#263](https://github.com/zayKenyon/VALORANT-rank-yoinker/pull/263) in [zayKenyon/VALORANT-rank-yoinker](https://github.com/zayKenyon/VALORANT-rank-yoinker)
-4. 💪 Opened PR [#1](undefined) in [juliancasaburi/clima-info-unlp-mcp](https://github.com/juliancasaburi/clima-info-unlp-mcp)
-5. ❌ Assigned PR [#1](undefined) in [juliancasaburi/clima-info-unlp-mcp](https://github.com/juliancasaburi/clima-info-unlp-mcp)
-6. 💪 Opened PR [#7](https://github.com/juliancasaburi/juliancasaburi.github.io/pull/7) in [juliancasaburi/juliancasaburi.github.io](https://github.com/juliancasaburi/juliancasaburi.github.io)
+1. 🎉 Merged PR [#2](https://github.com/juliancasaburi/image-compressor/pull/2) in [juliancasaburi/image-compressor](https://github.com/juliancasaburi/image-compressor)
+2. ℹ️ Labeled PR [#2](https://github.com/juliancasaburi/image-compressor/pull/2) in [juliancasaburi/image-compressor](https://github.com/juliancasaburi/image-compressor)
+3. 💪 Opened PR [#2](https://github.com/juliancasaburi/image-compressor/pull/2) in [juliancasaburi/image-compressor](https://github.com/juliancasaburi/image-compressor)
+4. ℹ️ Assigned PR [#2](https://github.com/juliancasaburi/image-compressor/pull/2) in [juliancasaburi/image-compressor](https://github.com/juliancasaburi/image-compressor)
+5. 🎉 Merged PR [#1](https://github.com/juliancasaburi/image-compressor/pull/1) in [juliancasaburi/image-compressor](https://github.com/juliancasaburi/image-compressor)
+6. ℹ️ Labeled PR [#1](https://github.com/juliancasaburi/image-compressor/pull/1) in [juliancasaburi/image-compressor](https://github.com/juliancasaburi/image-compressor)
 <!--END_SECTION:activity-->
