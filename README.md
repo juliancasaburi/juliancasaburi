@@ -166,10 +166,10 @@ Feel free to explore my repositories and reach out if you’d like to connect, c
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/juliancasaburi/pdf-tools/pull/1) in [juliancasaburi/pdf-tools](https://github.com/juliancasaburi/pdf-tools)
-2. ℹ️ Assigned PR [#1](https://github.com/juliancasaburi/pdf-tools/pull/1) in [juliancasaburi/pdf-tools](https://github.com/juliancasaburi/pdf-tools)
-3. 💪 Opened PR [#1](https://github.com/juliancasaburi/pdf-tools/pull/1) in [juliancasaburi/pdf-tools](https://github.com/juliancasaburi/pdf-tools)
-4. 🎉 Merged PR [#3](https://github.com/juliancasaburi/image-compressor/pull/3) in [juliancasaburi/image-compressor](https://github.com/juliancasaburi/image-compressor)
-5. 💪 Opened PR [#3](https://github.com/juliancasaburi/image-compressor/pull/3) in [juliancasaburi/image-compressor](https://github.com/juliancasaburi/image-compressor)
-6. ℹ️ Assigned PR [#3](https://github.com/juliancasaburi/image-compressor/pull/3) in [juliancasaburi/image-compressor](https://github.com/juliancasaburi/image-compressor)
+1. 🎉 Merged PR [#4](https://github.com/juliancasaburi/image-compressor/pull/4) in [juliancasaburi/image-compressor](https://github.com/juliancasaburi/image-compressor)
+2. 💪 Opened PR [#4](https://github.com/juliancasaburi/image-compressor/pull/4) in [juliancasaburi/image-compressor](https://github.com/juliancasaburi/image-compressor)
+3. 🎉 Merged PR [#1](https://github.com/juliancasaburi/pdf-tools/pull/1) in [juliancasaburi/pdf-tools](https://github.com/juliancasaburi/pdf-tools)
+4. ℹ️ Assigned PR [#1](https://github.com/juliancasaburi/pdf-tools/pull/1) in [juliancasaburi/pdf-tools](https://github.com/juliancasaburi/pdf-tools)
+5. 💪 Opened PR [#1](https://github.com/juliancasaburi/pdf-tools/pull/1) in [juliancasaburi/pdf-tools](https://github.com/juliancasaburi/pdf-tools)
+6. 🎉 Merged PR [#3](https://github.com/juliancasaburi/image-compressor/pull/3) in [juliancasaburi/image-compressor](https://github.com/juliancasaburi/image-compressor)
 <!--END_SECTION:activity-->
