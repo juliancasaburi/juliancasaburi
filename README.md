@@ -126,9 +126,11 @@ Feel free to explore my repositories and reach out if you’d like to connect, c
     <td><strong>Cloud & Infrastructure</strong></td>
     <td>
       <img src="https://custom-icon-badges.demolab.com/badge/AWS-black.svg?logo=aws&logoColor=white" />
-      <img src="https://custom-icon-badges.demolab.com/badge/AWS%20S3-black.svg?logo=aws&logoColor=white" />
       <img src="https://custom-icon-badges.demolab.com/badge/AWS%20Lambda-black.svg?logo=aws&logoColor=white" />
       <img src="https://custom-icon-badges.demolab.com/badge/AWS%20EC2-black.svg?logo=aws&logoColor=white" />
+      <img src="https://custom-icon-badges.demolab.com/badge/AWS%20S3-black.svg?logo=aws&logoColor=white" />
+      <img src="https://custom-icon-badges.demolab.com/badge/AWS%20SES-black.svg?logo=aws&logoColor=white" />
+      <img src="https://custom-icon-badges.demolab.com/badge/AWS%20SQS-black.svg?logo=aws&logoColor=white" />
       <img src="https://img.shields.io/badge/-Docker-black?logo=docker" />
       <img src="https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes" />
       <img src="https://img.shields.io/badge/-Nginx-black?logo=nginx" />
